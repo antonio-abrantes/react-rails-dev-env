@@ -12,7 +12,9 @@
 # Language: Ruby <2.7.1>
 # Framework: Rails <6.0.3.2>
 # Database: PostgreSQL <10>
-# NodeJS Enviroment: <12>
+# NodeJS Enviroment: <12>\
+
+# Só testando envio de uma branch para meu repositorio
 
 echo -e "********************** Installing Node.JS  **************************\n"
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
